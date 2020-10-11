@@ -1,6 +1,6 @@
 ### 你好呀 👋
 
-你好，我是 Jacob，在 2020 这个特殊的年份毕业于上海大学，目前在北京贝壳找房从事前端工作。空闲的时候也比较喜欢折腾 nodejs、python 一些东西，比较喜欢去学习一些前端新兴的东西，也十分想去实践。
+你好，我是 Jacob，在 2020 这个特殊的年份毕业于上海大学，目前在北京贝壳找房从事前端工作。空闲的时候也比较喜欢折腾 nodejs、python 一些东西，比较喜欢去学习一些前端新兴的技术，也十分想去实践。
 
 <!--
 **jacob-lcs/jacob-lcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
