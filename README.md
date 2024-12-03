@@ -17,7 +17,7 @@
 ## 🎯 Projects
 - 📚 [课程管理系统](http://schedule.lcs.show/) - A comprehensive course management and recommendation system with features like course scheduling, recommendations, and group chat
 - 📝 [富文本编辑器](http://editor.lcs.show/) - A lightweight rich text editor with basic formatting features
-- 🎮 [开心消消乐]([https://github.com/jacob-lcs/blog/issues/9](https://www.lcs.show/projects/xxle)) - A Vue-based match-3 puzzle game
+- 🎮 [开心消消乐](https://www.lcs.show/projects/xxle) - A Vue-based match-3 puzzle game
 
 ## 📖 Recent Blog Posts
 - [从零开始使用 webpack5 搭建 react 项目](https://www.lcs.show/blog/common/how-to-create-webpack-react-project)
