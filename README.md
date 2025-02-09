@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 - Frontend: React, Vue, TypeScript, Webpack, JavaScript
 - UI Libraries: Semi Design, Ant Design
-- Backend: Node.js, Python
+- Backend: Node.js
 - Tools & Others: Git, webpack
 
 ## 🎯 Projects
