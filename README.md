@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 🎓 Graduated from Shanghai University in 2020
-- 💼 Frontend Engineer at ByteDance (字节)
+- 💼 Frontend Engineer at Alibaba
 - 🌱 Passionate about exploring new frontend technologies
 - 📝 Writing technical blogs at [lcs.show](https://lcs.show)
 
